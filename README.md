@@ -8,5 +8,8 @@ To figure out the best approach to the project/design this report investigates t
 is formed by. This will include grid layouts, images, typography, navigation, media queries and breakpoints and mobile first and 
 accessibility. 
 
+
+
 GitHub url:
 https://github.com/richlocke44/website_design_and_develpoment.git 
+
