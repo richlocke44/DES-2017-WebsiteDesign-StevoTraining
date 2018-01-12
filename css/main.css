@@ -1,13 +1,17 @@
 .backgroundimg{
    width:110%;
+
    height:100%;
    max-height:800px;
+
 
 }
 .bckimg{
     height: 100%;
     width: 100%;
+
     max-height: 700px
+
 }
 #wrapper {
   display:table;
@@ -144,6 +148,7 @@
 }
 .greenbox{
     background: linear-gradient(#00C900, #3A3A3A);
+
     width:95%;
     margin: 0 auto;
     padding: 10px;
